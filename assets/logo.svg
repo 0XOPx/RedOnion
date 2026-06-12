@@ -4,8 +4,4 @@
   <ellipse cx="80" cy="90" rx="50" ry="60" fill="#c44d75" opacity="0.4" />
   
   <path d="M90 35 L85 5 L115 5 L110 35 Z" fill="#4a7c59" />
-  
-  <line x1="90" y1="190" x2="85" y2="200" stroke="#d4b483" stroke-width="2" />
-  <line x1="100" y1="190" x2="100" y2="200" stroke="#d4b483" stroke-width="2" />
-  <line x1="110" y1="190" x2="115" y2="200" stroke="#d4b483" stroke-width="2" />
 </svg>
